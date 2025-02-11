@@ -1,8 +1,12 @@
 package Concepts;
 
+import java.util.Scanner;
+
 public class IfElseExample {
     public static void main(String[] args) {
-        int number = -5;
+
+        Scanner inp = new Scanner(System.in);
+        int number = inp.nextInt();
 
         if (number > 0) {
             System.out.println("Positive number");
