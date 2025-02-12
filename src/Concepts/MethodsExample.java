@@ -6,7 +6,7 @@ public class MethodsExample {
         return a + b;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] arrayOfStringsInput) {
         int result = add(10, 20);
         System.out.println("Sum: " + result);
     }
