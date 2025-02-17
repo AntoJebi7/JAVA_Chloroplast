@@ -12,5 +12,15 @@ public class StringBuilder_Buffer {
         StringBuffer sbf = new StringBuffer("Anto");
         sbf.append(" jebikshan");
         System.out.println(sbf);
+
+        StringBuilder sb1 = new StringBuilder("Hello");
+
+        sb1.append(" World");  // Append
+        sb1.insert(5, ",");  // Insert
+        sb1.replace(0, 5, "Hi");  // Replace
+        sb1.delete(2, 4);  // Delete
+        sb1.reverse();  // Reverse
+
+        System.out.println(sb1.toString());
     }
 }
