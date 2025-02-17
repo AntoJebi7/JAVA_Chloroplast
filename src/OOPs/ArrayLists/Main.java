@@ -30,6 +30,7 @@ public class Main {
         list2.set(1,"orange");
 
 
+
         System.out.println(list2);
         System.out.println(list2.get(1));
         System.out.println(list2.size());
