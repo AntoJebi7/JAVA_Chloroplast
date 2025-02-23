@@ -15,6 +15,7 @@ Just like **chloroplasts power plants with energy**, this repo **fuels your codi
 ## 🏗 Getting Started  
 
 ### 📥 Clone the Repository  
+
 ```bash
 git clone https://github.com/AntoJebi7/JAVA_Chloroplast.git
 cd JAVA_Chloroplast
