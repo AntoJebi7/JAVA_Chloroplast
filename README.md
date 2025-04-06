@@ -1,5 +1,6 @@
 # Java-Chloroplast: The Powerhouse of DSA & Programming  
 (growing)
+
 Welcome to **Java-Chloroplast**, a **comprehensive resource** for **Data Structures, Algorithms, and Problem Solving** using **Java**! This repository is designed to **boost your problem-solving skills**, **crack coding interviews**, and **enhance your competitive programming abilities**.  
 
 Just like **chloroplasts power plants with energy**, this repo **fuels your coding growth** by providing **efficient solutions to complex problems**.  
