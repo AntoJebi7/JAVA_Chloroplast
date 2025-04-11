@@ -3,6 +3,7 @@ package Problems_Basic;
 import java.util.Scanner;
 
 public class EuclidianGCD {
+           // a = q b + r   formula
     public static int GCD(int a, int b){
         if(b==0){
             return a;
