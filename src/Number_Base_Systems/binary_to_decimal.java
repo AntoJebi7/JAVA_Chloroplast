@@ -14,7 +14,8 @@ public class binary_to_decimal {
 
         for(int i = binary.length()-1;i>=0;i--){
             int current_bit = binary.charAt(i)-'0';
-            decimal+=current_bit*Math.pow(2,power);
+            //decimal+=current_bit*Math.pow(2,power);
+            decimal+=current_bit * find_power.find_exponent(2,power);
             power++;
         }
         System.out.println("binary to decimal of "+ binary + " is " + decimal);
