@@ -6,13 +6,13 @@ public class Main {
         // run it before refer it
 
         for(int k=1;k<=5;k++){
-            System.out.println(k);
+            System.out.println(k);   // vertical line
         }
 
         System.out.println("**********");
         for(int i=1;i<=5;i++){ // row
             for(int j=1;j<=5;j++){ // column
-                System.out.print(i);
+                System.out.print(i);     // square
             }
             System.out.println();
         }
