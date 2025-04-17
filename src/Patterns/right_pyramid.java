@@ -62,5 +62,6 @@ public class right_pyramid {
         //5 - 5 + 1 = 1 ✅
 
         //Without the +1, it would give one less than needed.
+
     }
 }
