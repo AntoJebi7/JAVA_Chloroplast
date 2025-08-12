@@ -14,6 +14,7 @@ public class Bufferreader {
         InputStreamReader ins = new InputStreamReader(System.in);
         BufferedReader brr = new BufferedReader(ins);
 
+
         System.out.println("enter your name : " );
         String name = brr.readLine();
         System.out.println(name);

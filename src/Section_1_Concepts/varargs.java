@@ -15,4 +15,5 @@ public class varargs {
         System.out.println(average);
         return 0;
     }
+
 }

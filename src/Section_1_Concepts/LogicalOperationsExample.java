@@ -41,5 +41,6 @@ public class LogicalOperationsExample {
             System.out.println("This won't print");
         }
         System.out.println("x after Bitwise AND: " + x); // x is now 6
+
     }
 }

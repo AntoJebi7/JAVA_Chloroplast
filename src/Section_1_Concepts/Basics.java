@@ -23,5 +23,6 @@ public class Basics {
         System.out.println(names);
 
         getInput.close();
+
     }
 }

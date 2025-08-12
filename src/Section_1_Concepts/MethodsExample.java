@@ -9,5 +9,6 @@ public class MethodsExample {
     public static void main(String[] arrayOfStringsInput) {
         int result = add(10, 20);
         System.out.println("Sum: " + result);
+
     }
 }

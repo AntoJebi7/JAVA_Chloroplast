@@ -21,6 +21,7 @@ public class StringBuilder_Buffer {
         sb1.delete(2, 4);  // Delete
         sb1.reverse();  // Reverse
 
+
         System.out.println(sb1.toString());
     }
 }

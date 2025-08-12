@@ -51,6 +51,7 @@ public class StringMethodsExample {
             System.out.println(part);
         }
 
+
         // 1️⃣5️⃣ isEmpty() & isBlank() - Check if the string is empty or blank
         String emptyStr = "";
         String blankStr = "   ";

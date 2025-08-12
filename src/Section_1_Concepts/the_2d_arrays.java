@@ -12,5 +12,6 @@ public class the_2d_arrays {
                 System.out.println(from_frui_vege);
             }
         }
+
     }
 }
