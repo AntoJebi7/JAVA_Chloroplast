@@ -19,5 +19,6 @@ public class OperatorsExample {
         boolean condition2 = false;
         System.out.println("AND: " + (condition1 && condition2));
         System.out.println("OR: " + (condition1 || condition2));
+
     }
 }

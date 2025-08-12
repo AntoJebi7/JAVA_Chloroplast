@@ -10,5 +10,6 @@ public class SwitchExample {
             case 3: System.out.println("Wednesday"); break;
             default: System.out.println("Invalid Day");
         }
+
     }
 }

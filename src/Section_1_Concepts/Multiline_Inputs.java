@@ -21,5 +21,6 @@ public class Multiline_Inputs {
 
         System.out.println(sb.toString());
 
+
     }
 }

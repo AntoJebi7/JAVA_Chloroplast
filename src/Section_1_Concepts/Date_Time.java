@@ -1,9 +1,6 @@
 package Section_1_Concepts;
 
-import java.time.Instant;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
+import java.time.*;
 import java.time.format.DateTimeFormatter;
 
 public class Date_Time {
@@ -15,6 +12,7 @@ public class Date_Time {
         LocalDateTime dateTime = LocalDateTime.of(today, time);
         Instant instant = Instant.now();
 
+
         // custom format
         LocalDateTime dateTime1 = LocalDateTime.now();
         DateTimeFormatter formatter =
@@ -25,6 +23,10 @@ public class Date_Time {
         LocalDate date = LocalDate.of(2024,12,25);
         LocalDateTime dateTime2 = LocalDateTime.of(2024,
                 12,25,12,0,0);
+
+        ZonedDateTime zonedNow = ZonedDateTime.now(ZoneId.of("America/New_York"));
+        System.out.println("NY Time: " + zonedNow);
+
 
         System.out.println(time);
         System.out.println(today);

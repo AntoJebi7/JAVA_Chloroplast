@@ -26,5 +26,6 @@ public class BitwiseExample {
         // 7️⃣ Unsigned Right Shift (>>>)
         int negative = -8; // Binary: 11111111 11111111 11111111 11111000
         System.out.println("negative >>> 1 = " + (negative >>> 1));
+
     }
 }

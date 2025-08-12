@@ -10,5 +10,6 @@ public class Random_Numbers {
         double result = Math.pow(2, 5+1);
         System.out.println(result);
 
+
     }
 }

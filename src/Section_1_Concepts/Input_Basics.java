@@ -47,6 +47,7 @@ public class Input_Basics {
             System.out.println("Console not available. Run in a terminal for password input.");
         }
 
+
         // Closing resources
         scanner.close();
     }
